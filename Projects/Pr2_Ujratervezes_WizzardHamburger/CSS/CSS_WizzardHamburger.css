@@ -1,0 +1,25 @@
+@font-face{
+    font-family: "roboto-medium";
+    src: url("fonts/Roboto/Roboto-Medium.ttf");
+    font-weight: 200;
+ }
+@font-face{
+    font-family: "OpenSans-ExtraBold";
+    src: url("fonts/Open_Sans/OpenSans-ExtraBold.ttf");
+    font-weight: 200;
+ }
+@font-face{
+    font-family: "OpenSans-ExtraBold";
+    src: url("fonts/Lucida-Sans-Unicode/lsansuni.ttf");
+    font-weight: 200;
+ }
+
+
+h1{
+    color: red;
+    size: 24px;
+p{}
+
+
+
+}

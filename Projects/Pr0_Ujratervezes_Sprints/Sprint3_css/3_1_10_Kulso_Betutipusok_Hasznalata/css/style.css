@@ -1,0 +1,27 @@
+@font-face{
+    font-family: "Kochasan";
+    src: url("/Projects/CommonSources/Fonts/Kodchasan/");
+}
+@font-face{
+    font-family: "Roboto";
+    src: url("/Projects/CommonSources/Fonts/Roboto/Roboto-Medium.ttf");
+}
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:ital,wght@1,600&family=Roboto:ital,wght@1,100&display=swap');
+
+h1{
+    color: red;
+    font-family: 'roboto', sans-serif;
+    text-align: justify;
+}
+p{
+    color: gray;
+    font-size: 24px;
+    font-family: 'Kodchasan', sans-serif;
+    text-align: left;
+    text-transform: lowercase;
+    line-height: normal;
+    font-weight: lighter;
+}
+img{
+    width: 200px;
+}

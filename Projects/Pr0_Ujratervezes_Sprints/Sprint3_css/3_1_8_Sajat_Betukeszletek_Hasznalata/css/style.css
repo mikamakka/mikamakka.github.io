@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Oswald-100"; 
+    src: url("/Projects/CommonSources/Fonts/Oswald/Oswald-VariableFont_wght.ttf");
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Oswald-Bold"; 
+    src: url("/Projects/CommonSources/Fonts/Oswald/static/Oswald-Bold.ttf");
+    font-weight: 100;
+}
+h1 {
+    color: magenta; 
+    font-family: "Oswald-Bold";
+    }
+p {
+    font-family: "Oswald-100"; 
+    color: lawngreen;
+    font-size: 20px;
+}
+img {
+    width: 100px;
+}
