@@ -1,0 +1,37 @@
+@font-face{
+    font-family: "Roboto-light";
+    src: url("/Projects/CommonSources/Fonts/Roboto/Roboto-Light.ttf");
+}
+@font-face{
+    font-family: "kodchasan";
+    src: url("/Projects/CommonSources/Fonts/Kodchasan/Kodchasan-Medium.ttf");
+}
+h1{
+    color: blue;
+    font-family: "roboto-light", sans-serif;
+    text-align: justify;
+}
+h3{
+       font-family: "roboto", sans-serif;
+       font-size: 30px;
+}    
+#bio-header{
+    color: brown;
+ 
+
+}
+#skills-header{
+    color: rgb(39, 165, 87);
+}
+p{
+    color: gray;
+    font-size: 24px;
+    font-family: "kodchasan";
+    text-align: left;
+    text-transform: lowercase;
+    line-height: normal;
+    font-weight: lighter;
+}
+img{
+    width: 200px;
+}

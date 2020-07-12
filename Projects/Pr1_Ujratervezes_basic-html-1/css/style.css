@@ -1,0 +1,23 @@
+
+html{
+background-color: yellow;
+}
+div{
+   background-color: white;
+   height: 1000px;
+   width: 80%;
+margin: auto;
+margin-top: 0px;
+   
+
+}
+._1{
+    background-color: moccasin;
+    height: 60px;
+margin: auto;
+    box-shadow: 3px 3px 7px black;
+}
+img{
+    width: 10%;
+    align-items: center;
+}

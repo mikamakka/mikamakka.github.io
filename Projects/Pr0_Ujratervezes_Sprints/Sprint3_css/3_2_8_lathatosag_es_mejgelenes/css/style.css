@@ -1,0 +1,59 @@
+@font-face{
+    font-family: "roboto-light";
+    src: url("/Projects/CommonSources/Fonts/Roboto/Roboto-Light.ttf");
+}
+@font-face{
+    font-family: "roboto-bold";
+    src: url("/Projects/CommonSources/Fonts/Roboto/Roboto-Bold.ttf");
+}
+@font-face{
+    font-family: "kodchasan-medium";
+    src: url("/Projects/CommonSources/Fonts/Kodchasan/Kodchasan-Medium.ttf");
+    
+}
+@font-face{
+    font-family: "oswald-vari";
+    src: url("/Projects/CommonSources/Fonts/Oswald/Oswald-VariableFont_wght.ttf");
+
+}
+h1{
+    font-family: "roboto-bold";
+    font-size: 40px;
+    color: darksalmon;
+}
+h2{
+    font-family: "roboto-light";
+}
+p{
+    font-family: "oswald-vari";
+    text-align: justify;
+}
+img{
+    width: 12.42%;
+    margin: 2%;
+    box-shadow: 3px 3px 7px black;
+}
+._A{
+    color: blue;
+}
+._B{
+    color: brown;
+}
+._C{
+    font-weight: bold;
+}
+.img-div{
+    background-color: rgb(168, 229, 250);
+}
+.light{
+    background-color: rgb(176, 255, 176);
+}
+#_1{
+    color: crimson;
+}
+#_2{
+    color: darkgreen;
+}
+#img-1{
+    display: none;
+}

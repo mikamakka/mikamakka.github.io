@@ -1,0 +1,10 @@
+html{
+    background-color: #e0e0e0;
+  background: url("/Projects/CommonSources/img/backWoodKicsi.png") no-repeat;
+}
+#_1{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 255, 0.158);
+}

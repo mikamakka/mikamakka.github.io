@@ -1,0 +1,47 @@
+@font-face{
+    font-family: "roboto-light";
+    src: url("/Projects/CommonSources/Fonts/Roboto/Roboto-Light.ttf");
+}
+@font-face{
+    font-family: "kodchasan";
+    src: url("/Projects/CommonSources/Fonts/Kodchasan/");
+}
+html{
+
+}
+h1{
+    font-family: "kodchasan", Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family: "roboto-light", Arial, Helvetica, sans-serif;
+
+}
+p{
+
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+._A{
+    color: tomato;
+}
+._B{
+    color: yellowgreen;
+}   
+._C{
+    font-weight: Bold;
+    font-size: 30px;
+}
+.img-div{
+    background-color: lightblue;
+}
+.light{
+    background-color: palegoldenrod;
+}
+#_1{
+    color: rgb(255, 0, 255);
+}
+#_2{
+    color: seagreen;
+}
